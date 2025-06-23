@@ -1,4 +1,4 @@
-# task1 Data Cleaning and Preprocessing
+# Task1 Data Cleaning and Preprocessing
 When creating this code, I focused on transforming the raw **Titanic dataset** into a clean, structured format suitable for machine learning.
 I followed these steps:
 
